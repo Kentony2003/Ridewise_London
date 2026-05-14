@@ -1,6 +1,6 @@
 # Cloude Code ToolBox — MCP & Skills awareness
 
-_Generated: 2026-05-08T17:54:08.384Z_
+_Generated: 2026-05-14T21:55:37.259Z_
 
 ## How to use this report
 
@@ -13,9 +13,9 @@ _Generated: 2026-05-08T17:54:08.384Z_
 
 ## MCP — workspace
 
-Workspace `mcp.json` _(folder: Ridewise_London)_
+Workspace `mcp.json` _(folder: Ridewise_London PY)_
 
-- **c:\Users\THINKPAD\OneDrive\Desktop\DATA FILES\Ridewise_London\.mcp.json** — _File missing_
+- **c:\Users\THINKPAD\OneDrive\Desktop\DATA FILES\Ridewise_London PY\.mcp.json** — _File missing_
 
 _No active workspace servers in mcp.json._
 
